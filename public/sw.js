@@ -3,17 +3,11 @@ self.addEventListener('install', function(event) {
     var CACHE_NAME = 'newCache';
     var urlsToCache = [
   '/',
-  'css/blogStyles.css',
-  'css/bootstrap.min.css',
-  'css/fontawesome-all.min.css',
-  'css/magnific-popup.css',
-  'css/tooplate-style.css',
-  '/sw.js',
   '/manifest.json',
   '/index.html',
-  'https://illinoisjo2.weebly.com/',
-  '/blog.html',
-  '/swag.html'
+  '/swag.html',
+  '/shop.html',
+  '/erwin.html'
 ];
   });
 

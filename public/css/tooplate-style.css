@@ -168,7 +168,7 @@ p:last-child { margin-bottom: 0; }
 .tm-main-nav a:hover,
 .tm-main-nav a:focus,
 .tm-main-nav a.active {
-    background-image: url(../img/nav-item-highlight.png);
+    background-image: url(https://www.illinoisjo.com/img/nav-item.png);
     color: #c76be9;
     text-decoration: none;    
 }
