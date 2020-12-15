@@ -7,7 +7,8 @@ self.addEventListener('install', function(event) {
   '/index.html',
   '/swag.html',
   '/shop.html',
-  '/erwin.html'
+  '/erwin.html',
+  '/SoapersConer.html'
 ];
   });
 
